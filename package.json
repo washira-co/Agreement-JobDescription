@@ -1,0 +1,15 @@
+{
+  "name": "Agreement-JobDescription",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/washira-co/Agreement-JobDescription.git",
+  "author": "Eiichi <8284623+eiichi-worker@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "markdownlint **/*.md"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.30.0"
+  }
+}
