@@ -3,56 +3,37 @@
 
 [[9a] WEBマーケティング](../../index.md) / [[6d] WEBサイト人材](../index.md) / [[4f] WEBサイトフロントエンドエンジニア](./index.md)
 
-WEBアプリのフロントエンドの要件から運用までできる
-
-レベル
+サマリー
 ---
 
-### 0. 未経験
+チームでのプロダクト開発のフロントエンドの領域をリードできる
 
+職務内容
 ---
 
-### 1. 初学者
-
-#### 期待
-
-- 静的サイトであればコーディングできる
-- JavaScriptを使った動的な処理に対応できる
-- バリデーションのついたWEBのフォームを実装できる
-
-#### 実績
-
-- 実戦経験年数
-  - 2年未満
-- 関わったサイト
-  - 数ページの静的サイト
-  - CMSを使ったWEBサイト
-
-#### 知識
-
-- HTML5/CSS3コーディングできる
-
+期待する言動
 ---
 
-### 2. 新人
+- 要求定義、要件定義を行うことができる
+- WEBアプリをさまざまな形態を実装できる
+  - SSG/SSR/SPA
+  - PWA
+- REST APIを活用できる
+  - 仕様についてバックエンドなどAPI構築者と連携できる
+  - OpenAPIなどのAPI仕様を読み、利用するコードを実装できる
+- WEBアプリのフレームワークを利用しアプリケーションを構築できる
+  - Vue.js、React、Anglerなど
+    - Nuxt、Nextなど
+- BaaSを用いた開発ができる
+  - netlify、Firebaseなど
+- ビルドシステムの構築やCIの構築ができる
 
-- jQuery等で動的な処理がかける
-- Git
-- SPA/SSGA
-- WEB基礎知識
-  - HTTP/HTTPS
-    - cookie
-    - session
-    - Local Storage
-- SEO基礎知識
-  - Google Analytics
-    - UniversalTag
-  - Google Search Console
-  - Google Tag Manager
-
+期待する実績
 ---
 
-### 3. 中堅
+
+期待する知識/スキル
+---
 
 - PWA
   - Service Worker
@@ -61,19 +42,6 @@ WEBアプリのフロントエンドの要件から運用までできる
 - ビルドシステム
 アニメーション
 Agile
-
----
-
-### 4. ベテラン
-
-- API
-  - REST API
-  - GraphQL
-- 認証認可
-
----
-
-### 5. リード
-
+プロダクトマネジメント
 - Google Analytics
   - GA4
